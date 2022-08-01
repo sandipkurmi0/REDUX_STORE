@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with REDUX STORE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is for redux toolkit
 
 ## Available Scripts
 
